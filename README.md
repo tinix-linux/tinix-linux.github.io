@@ -1,1 +1,2 @@
-# tinix-linux.github.io
+# Tinix
+A text thing.
